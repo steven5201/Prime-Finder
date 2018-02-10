@@ -1,0 +1,13 @@
+G:\PrimeFinder\Test1\obj\Debug\PrimeFinder.csproj.CoreCompileInputs.cache
+G:\PrimeFinder\Test1\bin\Debug\PrimeFinder.exe.config
+G:\PrimeFinder\Test1\bin\Debug\PrimeFinder.exe
+G:\PrimeFinder\Test1\bin\Debug\PrimeFinder.pdb
+G:\PrimeFinder\Test1\obj\Debug\PrimeFinder.exe
+G:\PrimeFinder\Test1\obj\Debug\PrimeFinder.pdb
+G:\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.exe.config
+G:\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.exe
+G:\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.pdb
+G:\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.csprojResolveAssemblyReference.cache
+G:\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.csproj.CoreCompileInputs.cache
+G:\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.exe
+G:\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.pdb

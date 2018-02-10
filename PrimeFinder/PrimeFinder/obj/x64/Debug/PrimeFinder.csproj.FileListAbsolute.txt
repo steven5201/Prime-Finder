@@ -1,0 +1,6 @@
+G:\PrimeFinder\PrimeFinder\bin\x64\Debug\PrimeFinder.exe.config
+G:\PrimeFinder\PrimeFinder\bin\x64\Debug\PrimeFinder.exe
+G:\PrimeFinder\PrimeFinder\bin\x64\Debug\PrimeFinder.pdb
+G:\PrimeFinder\PrimeFinder\obj\x64\Debug\PrimeFinder.csproj.CoreCompileInputs.cache
+G:\PrimeFinder\PrimeFinder\obj\x64\Debug\PrimeFinder.exe
+G:\PrimeFinder\PrimeFinder\obj\x64\Debug\PrimeFinder.pdb
